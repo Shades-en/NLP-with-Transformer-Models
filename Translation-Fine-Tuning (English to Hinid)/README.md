@@ -8,7 +8,7 @@ Helsinki-NLP/opus-mt-en-hi
 
 #### Trained Model - https://drive.google.com/drive/folders/1-GbatoY7GTv94mwQNQzidM8pnusSUMnv?usp=drive_link
 
-### Dataset used: kde4
+### Dataset used
 Dataset to fine tune on -  [kde4](https://opus.nlpl.eu/KDE4.php)
 
 
